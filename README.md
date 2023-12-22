@@ -17,7 +17,7 @@
   <a href="https://t.me/ilyosxon1222">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://www.instagram.com/firdavs_programmer">
+  <a href="https://www.instagram.com/ilyosbee_17">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://www.youtube.com/@firdavsyorkulov7/">
