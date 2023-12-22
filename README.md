@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<a href="https://github.com/FirdavsCoder">
+<a href="https://github.com/1lyosbek">
     <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -14,7 +14,7 @@
 </div>
 <div id="header" align="center">
 <div id="badges">
-  <a href="@ilyosxon1222">
+  <a href="https://t.me/ilyosxon1222">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://www.instagram.com/firdavs_programmer">
