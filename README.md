@@ -14,7 +14,7 @@
 </div>
 <div id="header" align="center">
 <div id="badges">
-  <a href="https://t.me/Firdavs_Yorkulov">
+  <a href="@ilyosxon1222">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://www.instagram.com/firdavs_programmer">
