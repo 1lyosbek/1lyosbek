@@ -51,9 +51,9 @@
 
 
 
-- 👋 Hi, I’m @FirdavsCoder
+- 👋 Hi, I’m @1lyosbek
 - 👀 I’m interested in Programming!
-- 🌱 I’m currently learning Python programming language, Django framework and Ai
-- 💞️ I’m looking to collaborate on Python!
-- 📫 How to reach me: +998 93 748 77 50
-- 📫 Telegram: @Firdavs_Programmer
+- 🌱 I’m currently learning NodeJs Backend language, NestJS framework and Databases
+- 💞️ I’m looking to collaborate on Backend NodeJS!
+- 📫 How to reach me: +998 33 570 10 01
+- 📫 Telegram: @ilyosxon1222
