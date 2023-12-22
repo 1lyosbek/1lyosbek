@@ -23,7 +23,7 @@
   <a href="https://www.youtube.com/@ilyosbekdev">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/firdavs-yorkulov-258581234/">
+  <a href="https://www.linkedin.com/in/ilyosxon-isaqov-719bab282">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
