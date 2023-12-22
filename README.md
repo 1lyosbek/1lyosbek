@@ -20,7 +20,7 @@
   <a href="https://www.instagram.com/ilyosbee_17">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://www.youtube.com/@firdavsyorkulov7/">
+  <a href="www.youtube.com/@ilyosbekdev">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/firdavs-yorkulov-258581234/">
