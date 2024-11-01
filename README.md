@@ -53,7 +53,7 @@
 
 - 👋 Hi, I’m @1lyosbek
 - 👀 I’m interested in Programming!
-- 🌱 I’m currently learning NodeJs Backend language, NestJS framework and Databases
+- 🌱 I have learnt NodeJs Backend language, NestJS framework and Databases
 - 💞️ I’m looking to collaborate on Backend NodeJS!
 - 📫 How to reach me: +998 33 570 10 01
-- 📫 Telegram: @ilyosxon1222
+- 📫 Telegram: https://t.me/ilyosxon1222
